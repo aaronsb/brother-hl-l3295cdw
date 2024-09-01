@@ -1,4 +1,4 @@
-# Maintainer: Aaron Bockelie <aaronsb@gmail.com>
+# Maintainer: Aaron Bockelie <aaron@bockelie.com>
 # namcap reports ELF files outside of a valid path ('opt/'). This is true, however most brother AUR packages are structured this way.
 # The Brother printer drivers are proprietary and are distributed as RPM or DEB.
 pkgname=brother-hl-l3295cdw
